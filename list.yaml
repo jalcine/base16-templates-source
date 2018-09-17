@@ -42,6 +42,7 @@ termite: https://github.com/khamer/base16-termite
 termux: https://github.com/kdrag0n/base16-termux
 textmate: https://github.com/chriskempson/base16-textmate
 tilix: https://github.com/karlding/base16-tilix
+tmux: https://git.jacky.wtf/me/base16-tmux-themepack
 vim: https://github.com/chriskempson/base16-vim
 vis: https://github.com/pshevtsov/base16-vis
 vscode: https://github.com/golf1052/base16-vscode
